@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.28.1](https://github.com/0xPlaygrounds/rig/compare/rig-core-v0.28.0...rig-core-v0.28.1) - 2026-01-11
+
+### Added
+
+- Add the ```encoding_format``` parameter to openai-embedding. ([#1203](https://github.com/0xPlaygrounds/rig/pull/1203))
+
+### Other
+
+- *(rig-core)* Fix gemini doc example with wrong imports ([#1238](https://github.com/0xPlaygrounds/rig/pull/1238))
+
 ## [0.28.0](https://github.com/0xPlaygrounds/rig/compare/rig-core-v0.27.0...rig-core-v0.28.0) - 2026-01-06
 
 ### Added
